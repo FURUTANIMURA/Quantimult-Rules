@@ -121,6 +121,12 @@
 (^|\.)ykimg\.com$
 (^|\.)youku\.com$
 
+# Apple
+(^|\.)akadns\.net$
+(^|\.)appstore\.com$
+(^|\.)cdn-apple\.com$
+(^|\.)mzstatic\.com$
+
 # Baidu
 (^|\.)baidu\.com$
 (^|\.)baidubcr\.com$
