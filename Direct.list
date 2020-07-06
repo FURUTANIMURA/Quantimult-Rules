@@ -155,16 +155,6 @@ HOST-SUFFIX,mi-img.com,DIRECT
 HOST-SUFFIX,miui.com,DIRECT
 HOST-SUFFIX,miwifi.com,DIRECT
 HOST-SUFFIX,xiaomi.com,DIRECT
-# > Microsoft
-HOST-SUFFIX,microsoft.com,DIRECT
-HOST-SUFFIX,msecnd.net,DIRECT
-HOST-SUFFIX,office365.com,DIRECT
-HOST-SUFFIX,outlook.com,DIRECT
-HOST-SUFFIX,s-microsoft.com,DIRECT
-HOST-SUFFIX,visualstudio.com,DIRECT
-HOST-SUFFIX,windows.com,DIRECT
-HOST-SUFFIX,windowsupdate.com,DIRECT
-HOST,officecdn-microsoft-com.akamaized.net,DIRECT
 # > NetEase
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
