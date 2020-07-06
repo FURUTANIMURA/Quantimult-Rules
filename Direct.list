@@ -372,3 +372,4 @@ HOST-SUFFIX,zhuihd.com,DIRECT
 HOST,download.jetbrains.com,DIRECT
 HOST,images-cn.ssl-images-amazon.com,DIRECT
 HOST,cdn.angruo.com,DIRECT
+GEOIP,CN,DIRECT
