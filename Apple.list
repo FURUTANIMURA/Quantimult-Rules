@@ -1,1 +1,23 @@
-
+# Apple_API.list
+HOST-SUFFIX,aaplimg.com,Apple,resolve-on-proxy
+HOST-SUFFIX,apple.co,Apple,resolve-on-proxy
+HOST-SUFFIX,apple.com,Apple,resolve-on-proxy
+HOST-SUFFIX,apple-cloudkit.com,Apple,resolve-on-proxy
+HOST-SUFFIX,appsto.re,Apple,resolve-on-proxy
+HOST-SUFFIX,cdn-apple.com,Apple,resolve-on-proxy
+HOST-SUFFIX,icloud.com,Apple,resolve-on-proxy
+HOST-SUFFIX,icloud-content.com,Apple,resolve-on-proxy
+HOST-SUFFIX,itunes.com,Apple,resolve-on-proxy
+HOST-SUFFIX,me.com,Apple,resolve-on-proxy
+IP-CIDR,17.0.0.0/8,Apple,no-resolve
+IP-CIDR,63.92.224.0/19,Apple,no-resolve
+IP-CIDR,65.199.22.0/23,Apple,no-resolve
+IP-CIDR,139.178.128.0/18,Apple,no-resolve
+IP-CIDR,144.178.0.0/19,Apple,no-resolve
+IP-CIDR,144.178.36.0/22,Apple,no-resolve
+IP-CIDR,144.178.48.0/20,Apple,no-resolve
+IP-CIDR,192.35.50.0/24,Apple,no-resolve
+IP-CIDR,198.183.17.0/24,Apple,no-resolve
+IP-CIDR,205.180.175.0/24,Apple,no-resolve
+# Apple News
+HOST-SUFFIX,apple.news,Apple,resolve-on-proxy
