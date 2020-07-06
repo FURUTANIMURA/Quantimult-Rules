@@ -1,9 +1,9 @@
 # > Microsoft
-HOST-SUFFIX,microsoft.com,DIRECT
-HOST-SUFFIX,msecnd.net,DIRECT
-HOST-SUFFIX,office365.com,DIRECT
-HOST-SUFFIX,outlook.com,DIRECT
-HOST-SUFFIX,s-microsoft.com,DIRECT
-HOST-SUFFIX,visualstudio.com,DIRECT
-HOST-SUFFIX,windows.com,DIRECT
-HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST-SUFFIX,microsoft.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,msecnd.net,PROXY,resolve-on-proxy
+HOST-SUFFIX,office365.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,outlook.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,s-microsoft.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,visualstudio.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,windows.com,PROXY,resolve-on-proxy
+HOST-SUFFIX,windowsupdate.com,PROXY,resolve-on-proxy
