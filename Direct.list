@@ -283,6 +283,7 @@ DOMAIN-SUFFIX,cmbimg.com,DIRECT
 DOMAIN-SUFFIX,ctrip.com,DIRECT
 DOMAIN-SUFFIX,dfcfw.com,DIRECT
 DOMAIN-SUFFIX,docschina.org,DIRECT
+user-agent,Frodo*,direct
 DOMAIN-SUFFIX,douban.com,DIRECT
 DOMAIN-SUFFIX,doubanio.com,DIRECT
 DOMAIN-SUFFIX,douyu.com,DIRECT
