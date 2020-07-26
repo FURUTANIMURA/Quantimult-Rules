@@ -8,6 +8,11 @@ USER-AGENT,WhatsApp*,PROXY
 
 # > Google Voice
 HOST,voice.telephony.goog,PROXY
+# > Apple TV
+HOST,np-edge.itunes.apple.com,PROXY
+HOST,play-edge.itunes.apple.com,PROXY
+HOST-SUFFIX,tv.apple.com,PROXY
+
 
 # > Line
 HOST-SUFFIX,lin.ee,PROXY
