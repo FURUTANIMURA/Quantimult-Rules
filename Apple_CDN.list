@@ -20,6 +20,7 @@ USER-AGENT,Wallet/1.0*,DIRECT
 USER-AGENT,*AssistantServices*,DIRECT
 USER-AGENT,MobileAsset*,DIRECT
 USER-AGENT,Siri*,DIRECT
+HOST,cdn.smoot.apple.com,DIRECT
 HOST,api.smoot.apple.com.cn,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,cn-smp-paymentservices.apple.com,DIRECT
