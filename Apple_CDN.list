@@ -34,7 +34,6 @@ HOST-SUFFIX,gs-loc.apple.com,DIRECT
 HOST-SUFFIX,ls.apple.com,DIRECT
 # > App Store
 user-agent, com.apple.appstored*,DIRECT
-HOST-SUFFIX,mzstatic.com,DIRECT
 HOST,iosapps.itunes.apple.com,DIRECT
 HOST,osxapps.itunes.apple.com,DIRECT
 # > Update
