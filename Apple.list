@@ -24,6 +24,5 @@ IP-CIDR,205.180.175.0/24,Apple,no-resolve
 HOST-SUFFIX,apple.news,Apple 
 # Apple Music
 HOST,aod.itunes.apple.com,Apple 
-HOST,api.smoot.apple.cn,Apple 
 HOST,music.apple.com,Apple 
 HOST,mvod.itunes.apple.com,Apple 
