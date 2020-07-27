@@ -32,11 +32,6 @@ HOST-SUFFIX,push.apple.com,DIRECT
 HOST-SUFFIX,push-apple.com.akadns.net,DIRECT
 HOST-SUFFIX,gs-loc.apple.com,DIRECT
 HOST-SUFFIX,ls.apple.com,DIRECT
-# Apple Music
-HOST,aod.itunes.apple.com,DIRECT
-HOST,api.smoot.apple.cn,DIRECT
-HOST,music.apple.com,DIRECT
-HOST,mvod.itunes.apple.com,DIRECT
 # > App Store
 user-agent, com.apple.appstored*,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
