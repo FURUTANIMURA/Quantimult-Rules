@@ -33,7 +33,7 @@ HOST-SUFFIX,push-apple.com.akadns.net,DIRECT
 HOST-SUFFIX,gs-loc.apple.com,DIRECT
 HOST-SUFFIX,ls.apple.com,DIRECT
 # > App Store
-HOST-SUFFIX,mzstatic.com,DIRECT
+HOST-SUFFIX,mzstatic.com,PROXY
 user-agent, com.apple.appstored*,DIRECT
 HOST,iosapps.itunes.apple.com,DIRECT
 HOST,osxapps.itunes.apple.com,DIRECT
